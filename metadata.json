@@ -1,0 +1,6 @@
+{
+  "name": "Lamine Footwear",
+  "description": "Walk in Style. Walk with Confidence. Luxury handcrafted footwear atelier blending timeless silhouettes, Tuscan leathers, and modern comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
